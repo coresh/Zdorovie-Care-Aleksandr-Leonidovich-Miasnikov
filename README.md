@@ -1,10 +1,8 @@
-# Zdorovie-Care-Aleksandr-Leonidovich-Miasnikov
-
 # Список лекарств с недоказанной эффективностью
 
 ### При копировании, - просьба: указывать на [источник:](https://github.com/coresh/Zdorovie-Care-Aleksandr-Leonidovich-Miasnikov)
+```
 https://github.com/coresh/Zdorovie-Care-Aleksandr-Leonidovich-Miasnikov
-
 ```
 
 ### Из книги Александра Леонидовича Мясникова
